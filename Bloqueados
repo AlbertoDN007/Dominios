@@ -483,7 +483,7 @@
 
 # TELEVISION
 0.0.0.0 marker.data.rtve.es
-# 0.0.0.0 marker.konograma.com
+0.0.0.0 marker.konograma.com
 0.0.0.0 konograma.com
 0.0.0.0 lovestv.es
 0.0.0.0 hbbtvloves.mediaset.es
