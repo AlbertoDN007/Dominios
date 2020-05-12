@@ -1,8 +1,11 @@
 # APUESTAS
-#   bet365.es
-0.0.0.0 (\.|^)bet365\.es$
-#   bet365.com
-#   botemania.es
+0.0.0.0 bet365.es
+0.0.0.0 .bet365.es
+#0.0.0.0 mobile.bet365.es
+0.0.0.0 bet365.com
+0.0.0.0 mobile.bet365.com
+0.0.0.0 botemania.es
+0.0.0.0 m.botemania.es
 #   888casino.es
 #   888poker.com
 #   888poker.es
