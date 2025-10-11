@@ -189,3 +189,11 @@ offline-maps.gvt1.com
 bag-cdn.itunes-apple.com.akadns.net
 myqcloud.com
 netatmo.net
+demdex.net
+cookielaw.org
+googletagmanager.com
+datadoghq-browser-agent.com
+cquotient.com
+jsdelivr.net
+abtasty.com
+msft-ssp.adnxs.com
