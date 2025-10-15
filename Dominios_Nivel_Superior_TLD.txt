@@ -1,6 +1,3 @@
-# .ru
-(^|\.)(ru)$
-# .рф
-(^|\.)(рф)$
-# .by
-(^|\.)(by)$
+# .ru - Dominios Rusos
+# .рф - Dominios Rusos (utilizando el alfabeto cirílico)
+# .by - Dominios Bielorrusos
