@@ -198,6 +198,3 @@ jsdelivr.net
 abtasty.com
 msft-ssp.adnxs.com
 conviva.com
-appgw.conviva.com
-cws.conviva.com
-ipv6.cws.conviva.com
